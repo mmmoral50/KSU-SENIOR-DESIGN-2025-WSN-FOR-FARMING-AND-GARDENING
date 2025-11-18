@@ -263,7 +263,7 @@ See [MASTER_SLAVE_SETUP_GUIDE.md](./MASTER_SLAVE_SETUP_GUIDE.md) for detailed se
 
 ## 🤝 Contributing
 
-This is a senior project for **King Saud University (KSU)**. Contributions, suggestions, and feedback are welcome!
+This is a senior project for **Kennesaw State University (KSU)**. Contributions, suggestions, and feedback are welcome!
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
